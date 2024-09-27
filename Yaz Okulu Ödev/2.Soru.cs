@@ -22,10 +22,6 @@ namespace Ödev2_Soru
 **				   NESNEYE DAYALI PROGRAMLAMA DERSİ
 **					Yaz Okulu DÖNEMİ
 **	
-**				ÖDEV NUMARASI  2.Soru   :
-**				ÖĞRENCİ ADI: Muhammed Taha Bayraktar   :
-**				ÖĞRENCİ NUMARASI:  S221210047    :
-**              DERSİN ALINDIĞI GRUP:  Grup A    :
 ****************************************************************************/
 
 
