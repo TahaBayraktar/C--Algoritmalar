@@ -17,11 +17,6 @@ namespace c__ödev_geliştirme_vol2
 **				    BİLGİSAYAR MÜHENDİSLİĞİ BÖLÜMÜ
 **				   NESNEYE DAYALI PROGRAMLAMA DERSİ
 **					Yaz Okulu  DÖNEMİ
-**	
-**				ÖDEV NUMARASI  1.Soru   :
-**				ÖĞRENCİ ADI: Muhammed Taha Bayraktar     :
-**				ÖĞRENCİ NUMARASI: S221210047    :
-**              DERSİN ALINDIĞI GRUP: Grup A    :
 ****************************************************************************/
 
 
